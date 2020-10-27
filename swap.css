@@ -1,0 +1,13 @@
+body{
+  background:tan;
+  text-align:center;
+}
+h2{
+  color: firebrick;
+}
+input{
+  width:80px;
+  text-align:center;
+  color:teal;
+  border-radius:5px;
+}
